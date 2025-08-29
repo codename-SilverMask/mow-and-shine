@@ -42,3 +42,5 @@ next-env.d.ts
 
 # Prevent auto-generated TypeScript component files
 components/*.tsx
+components/**/*.tsx
+*.tsx
