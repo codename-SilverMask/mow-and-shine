@@ -1,10 +1,10 @@
-import Navbar from "../components/Navbar";
-import Hero from "../components/Hero";
-import Services from "../components/Services";
-import ServiceAreas from "../components/ServiceAreas";
-import Testimonials from "../components/Testimonials";
-import RequestCallback from "../components/RequestCallback";
-import Footer from "../components/Footer";
+import Navbar from "../components/Navbar.jsx";
+import Hero from "../components/Hero.jsx";
+import Services from "../components/Services.jsx";
+import ServiceAreas from "../components/ServiceAreas.jsx";
+import Testimonials from "../components/Testimonials.jsx";
+import RequestCallback from "../components/RequestCallback.jsx";
+import Footer from "../components/Footer.jsx";
 
 export default function Home() {
   return (
