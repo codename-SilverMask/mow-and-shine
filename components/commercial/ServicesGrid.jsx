@@ -10,8 +10,8 @@ const ServicesGrid = () => {
   }, []);
 
   const services = {
-    column1: ["Office Cleaning", "Pub Outer And halls", "Lunatic And Surfaces"],
-    column2: ["Hotel Clean-Up", "Deep Cleaning", "Seville Clean"],
+    column1: ["Office Cleaning", "Pub Outer And halls", "Gym Cleaning"],
+    column2: ["Hotel Clean-Up", "Deep Cleaning", "Airbnb Cleaning"],
     column3: ["Washroom floors", "Common Floors", "Carpet Cleaning"],
     column4: ["Common Restrooms", "Trash Clean Up", "Commercial Area Cleaning"],
   };

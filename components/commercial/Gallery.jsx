@@ -44,7 +44,7 @@ const Gallery = () => {
     },
     {
       id: 6,
-      src: "/commercial-cleaning-1.jpg",
+      src: "/commercial-cleaning-6.jpg",
       alt: "Hospitality cleaning service",
       title: "Hospitality Services",
     },
