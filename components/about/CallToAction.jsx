@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 
 const CallToAction = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -44,19 +45,22 @@ const CallToAction = () => {
                 : "opacity-0 translate-y-8"
             }`}
           >
-            <button className="group bg-red-600 hover:bg-red-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105 hover:shadow-2xl shadow-lg">
+            <Link
+              href="/contact"
+              className="group inline-block bg-red-600 hover:bg-red-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105 hover:shadow-2xl shadow-lg"
+            >
               <span className="mr-2">
                 Schedule Cleaning Now & Get Free Estimate
               </span>
               <span className="inline-block transition-transform duration-300 group-hover:translate-x-1">
                 →
               </span>
-            </button>
+            </Link>
           </div>
 
           <p className="text-sm text-gray-300 mt-6">
             Call us at{" "}
-            <span className="font-semibold text-white">(206) 123-4567</span> or
+            <span className="font-semibold text-white">+64 21 109 9914</span> or
             click above to get started
           </p>
         </div>

@@ -144,7 +144,7 @@ const EstimateFormSection = () => {
                     onFocus={() => handleFocus("contactNumber")}
                     onBlur={handleBlur}
                     className={inputClasses("contactNumber")}
-                    placeholder="(555) 123-4567"
+                    placeholder="+64 21 109 9914"
                   />
                 </div>
                 <div>

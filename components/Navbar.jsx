@@ -56,7 +56,7 @@ const Navbar = () => {
           {/* CTA Button */}
           <div className="hidden md:block">
             <Link
-              href="tel:+64-21-555-0123"
+              href="tel:+6421109914"
               className="bg-red-500 hover:bg-red-600 text-white px-6 py-2 rounded-lg text-sm font-medium transition-colors duration-200"
             >
               Call Now
@@ -93,7 +93,7 @@ const Navbar = () => {
                 </Link>
               ))}
               <Link
-                href="tel:+64-21-555-0123"
+                href="tel:+6421109914"
                 className="bg-red-500 hover:bg-red-600 text-white block px-3 py-2 rounded-lg text-base font-medium mt-4 text-center transition-colors duration-200"
                 onClick={() => setIsOpen(false)}
               >

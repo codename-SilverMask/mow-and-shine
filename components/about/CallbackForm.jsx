@@ -130,7 +130,7 @@ const CallbackForm = () => {
 
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-2">Phone:</h4>
-                  <p className="text-gray-600">(206) 123-4567</p>
+                  <p className="text-gray-600">+64 21 109 9914</p>
                 </div>
 
                 <div>

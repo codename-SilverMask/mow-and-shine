@@ -58,7 +58,7 @@ const Hero = () => {
         </p>
 
         <Link
-          href="tel:+64-21-555-0123"
+          href="tel:+6421109914"
           className="inline-block bg-red-500 hover:bg-red-600 text-white px-8 py-4 text-lg font-semibold rounded-lg shadow-lg transition-all duration-200 transform hover:scale-105"
         >
           Call Us Today

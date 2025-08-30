@@ -14,7 +14,7 @@ const Footer = () => {
 
           <div className="flex items-center space-x-4">
             <Link
-              href="https://facebook.com/mowandshine"
+              href="https://www.facebook.com/profile.php?id=61569054565020"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-white transition-colors duration-200"

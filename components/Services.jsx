@@ -21,11 +21,11 @@ const Services = () => {
     },
     {
       id: 3,
-      title: "Customized Cleaning",
+      title: "Lawn Care",
       description:
-        "Tailored cleaning solutions designed to meet your specific needs and preferences.",
-      image: "/customized_cleaning.png",
-      link: "/customized",
+        "Professional lawn maintenance, landscaping, and outdoor beautification services for your property.",
+      image: "/lawn-care-2.png",
+      link: "/lawn",
     },
   ];
 
@@ -37,8 +37,8 @@ const Services = () => {
             Our Services
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            We provide top-quality residential, commercial, and customized
-            cleaning services throughout the Wellington region
+            We provide top-quality residential-cleaning, commercial-cleaning,
+            and lawn care services throughout the Wellington region
           </p>
         </div>
 
