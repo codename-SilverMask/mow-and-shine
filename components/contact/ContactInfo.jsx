@@ -49,8 +49,8 @@ const ContactInfo = () => {
     {
       id: 3,
       title: "Email Us",
-      content: "info@mowandshine.com",
-      link: "mailto:info@mowandshine.com",
+      content: "support@mownshine.com",
+      link: "mailto:support@mownshine.com",
       linkText: "Send Email",
       icon: (
         <svg
