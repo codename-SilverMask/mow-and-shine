@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <p className="text-sm text-gray-300">
-              © 2025 Mow&Shine Cleaning Services. All rights reserved. <br />
+              © 2026 Mow&Shine Cleaning Services. All rights reserved. <br />
               Built by Amaney Hussain.
             </p>
           </div>
