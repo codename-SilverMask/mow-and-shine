@@ -330,7 +330,7 @@ const EstimateFormSection = () => {
                   <p>
                     This personal approach allows us to provide you with a
                     detailed estimate that reflects the actual scope of work
-                    needed. Whether it's regular maintenance, seasonal cleanup,
+                    needed. Whether it&apos;s regular maintenance, seasonal cleanup,
                     or specialized treatments, we ensure every aspect of your
                     lawn care needs is addressed with precision and care.
                   </p>

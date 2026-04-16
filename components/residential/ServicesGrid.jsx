@@ -44,7 +44,7 @@ const ServicesGrid = () => {
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
             At Mow&Shine, we offer a complete range of cleaning services to keep your property looking its best. 
-            Whether it's regular home cleaning, deep cleaning, or specialized services, our flexible services are designed to fit 
+            Whether it&apos;s regular home cleaning, deep cleaning, or specialized services, our flexible services are designed to fit 
             your busy schedule and unique needs. Our flexible services allow you to enjoy a clean, well-maintained space without any hassle.
           </p>
         </div>

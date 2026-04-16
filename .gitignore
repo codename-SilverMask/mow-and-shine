@@ -47,3 +47,4 @@ components/**/*.tsx
 
 # AI Instructions
 .github/copilot-instructions.md
+CLAUDE.md

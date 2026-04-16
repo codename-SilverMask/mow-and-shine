@@ -30,7 +30,7 @@ const HeroContact = () => {
                   : "opacity-0 translate-y-8"
               }`}
             >
-              We're here to answer questions, schedule services, and provide
+              We&apos;re here to answer questions, schedule services, and provide
               free estimates
             </p>
           </div>

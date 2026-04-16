@@ -343,7 +343,7 @@ const ContactFormSection = () => {
                           Quick Response
                         </h4>
                         <p className="text-gray-600">
-                          We'll contact you within 2 hours during business hours
+                          We&apos;ll contact you within 2 hours during business hours
                           to discuss your needs.
                         </p>
                       </div>
@@ -371,7 +371,7 @@ const ContactFormSection = () => {
                           Schedule Service
                         </h4>
                         <p className="text-gray-600">
-                          Once approved, we'll schedule your service at your
+                          Once approved, we&apos;ll schedule your service at your
                           preferred time.
                         </p>
                       </div>

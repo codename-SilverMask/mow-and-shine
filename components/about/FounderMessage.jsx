@@ -41,9 +41,9 @@ const FounderMessage = () => {
               job, we see more than just surfaces to clean. We see an
               opportunity to transform your environment so you can feel
               comfortable and confident in your space. After earning our
-              clients' trust through years of dedication and hard work, we're
-              proud to be Seattle's premier choice for both residential and
-              commercial cleaning. Whether it's your home or your workplace, we
+              clients&apos; trust through years of dedication and hard work, we&apos;re
+              proud to be Seattle&apos;s premier choice for both residential and
+              commercial cleaning. Whether it&apos;s your home or your workplace, we
               treat every space as if it were our own, ensuring the highest
               level of care and attention to detail that every space deserves.
             </p>

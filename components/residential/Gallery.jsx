@@ -83,16 +83,12 @@ const Gallery = () => {
               style={{ transitionDelay: `${index * 150}ms` }}
             >
               <div className="relative h-64 w-full overflow-hidden bg-gray-200">
-                <img
+                <Image
                   src={image.src}
                   alt={image.alt}
-                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
-                  onError={(e) => {
-                    console.error("Image failed to load:", image.src);
-                  }}
-                  onLoad={() => {
-                    console.log("Image loaded successfully:", image.src);
-                  }}
+                  fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                  className="object-cover transition-transform duration-500 group-hover:scale-110"
                 />
               </div>
             </div>

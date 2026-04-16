@@ -82,10 +82,10 @@ const MapEmbed = () => {
         <div className="mt-12 text-center">
           <div className="bg-red-50 rounded-2xl p-8 max-w-4xl mx-auto">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">
-              Don't See Your Area?
+              Don&apos;t See Your Area?
             </h3>
             <p className="text-gray-600 mb-6">
-              We're always expanding our service areas. Contact us to see if we
+              We&apos;re always expanding our service areas. Contact us to see if we
               can serve your location.
             </p>
             <a
